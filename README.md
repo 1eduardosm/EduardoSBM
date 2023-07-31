@@ -4,9 +4,11 @@
   Link para minhas redes!!
 </h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSBM&show_icons=true&theme=transparent)
+
 <div>
-<a href="https://github.com/EduardoSBM"> <img height="180em" src="https://github-readmestats.vercel.app/api/top-langs/?username=MariMelo1&layout=compact&theme=dracula&show_icons=true" />
-<img loading="lazy" height="180em" src="https://github-readmestats.vercel.app/api?username=MariMelo1&show_icons=true&theme=dracula&include_all_commits=true&count
+  <a href="https://github.com/EduardoSBM"> <img height="180em" src="https://github-readmestats.vercel.app/api/top-langs/?username=EduardoSBM&layout=compact&theme=dracula&show_icons=true" />
+<img loading="lazy" height="180em" src="https://github-readmestats.vercel.app/api?username=EduardoSBM&show_icons=true&theme=dracula&include_all_commits=true&count
 _private=true"/>
 </div>
 
