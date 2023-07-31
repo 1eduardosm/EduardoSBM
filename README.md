@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h1>
+  Link para minhas redes!!
+</h1>
+
+<div>
+<a href = "mailto:contato@eduardosamuelbarbosademoraes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/GmailD14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
 <!--
 **EduardoSBM/EduardoSBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
