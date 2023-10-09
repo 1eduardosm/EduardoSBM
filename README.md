@@ -1,11 +1,10 @@
-<h2> Oi, eu sou o Eduardo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Olá, eu sou o Eduardo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <br>
 2/4 curso técnico em informática 
 
 <div>
   <a href="https://github.com/EduardoSBM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSBM&layout=compact&theme=dracula&show_icons=true" />
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSBM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Ferramentas e Tecnologias
