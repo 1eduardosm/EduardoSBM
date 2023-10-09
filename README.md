@@ -1,6 +1,6 @@
 <h2> Olá, eu sou o Eduardo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <br>
-### 2/4 curso técnico em informática 
+<b> 2/4 curso técnico em informática </b>
 <br>
 
 <div>
