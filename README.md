@@ -8,9 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSBM&layout=compact&theme=dracula&show_icons=true" />
 </div>
 
-## Ferramentas e tecnologias que estudo
+## Linguagens que estudo!!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src= "[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png)" width="40" height="40"/>
 
 ## Contato:
 
