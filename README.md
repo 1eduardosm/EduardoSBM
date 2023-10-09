@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<h1>
-  Link para minhas redes!!
-</h1>
+### 2/4 curso técnico em informática 👨🏻‍💻
 
 <div align="left">
     <a href="https://github.com/EduardoSBM">
