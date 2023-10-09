@@ -1,5 +1,5 @@
-##Hi there 
-##2/4 curso técnico em informática 👨
+Hi there!
+2/4 curso técnico em informática 
 
 <div align="left">
     <a href="https://github.com/EduardoSBM">
