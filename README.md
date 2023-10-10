@@ -1,11 +1,15 @@
 <h2> Olá, eu sou o Eduardo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <br>
-<b> 2/4 curso técnico em informática </b>
-<br>
+-  2/4 curso técnico em informática </b>
+
+- 🎒 Estudante de Informatica
+- 😄 Entusiasta da programação 
+- "Os insetos só atacam lâmpadas que brilham!"
 
 <div>
-  <a href="https://github.com/EduardoSBM">
+<a href="https://github.com/EduardoSBM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSBM&layout=compact&theme=dracula&show_icons=true" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSBM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Linguagens que estudo!!
