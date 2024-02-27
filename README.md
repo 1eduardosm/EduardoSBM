@@ -1,4 +1,4 @@
-<h2> Seja bem-vindo!<img src="https://1.bp.blogspot.com/-7RSZIpFqBOE/WWPQ-VclXtI/AAAAAAABMfw/uLhowiPL8w89Wmx6bAjpN8YyaqGLkU8KgCLcBGAs/s1600/SC%2BCorinthians%2BPaulista256x.png" width="50"><br>Eu sou o Eduardo!</h2>
+<h2> Seja bem-vindo!<br>Eu sou o Eduardo!<img src="https://1.bp.blogspot.com/-7RSZIpFqBOE/WWPQ-VclXtI/AAAAAAABMfw/uLhowiPL8w89Wmx6bAjpN8YyaqGLkU8KgCLcBGAs/s1600/SC%2BCorinthians%2BPaulista256x.png" width="50"></h2>
 
 
 -  3/4 curso técnico em informática 
