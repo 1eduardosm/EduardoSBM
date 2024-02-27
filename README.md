@@ -1,4 +1,4 @@
-<h2> Olá, eu sou o Eduardo! <img src="https://www.gifs-animados.net/futebol/corinthians-01.gif" width="30"></h2>
+<h2> Olá, eu sou o Eduardo! <img src="https://e7.pngegg.com/pngimages/90/150/png-clipart-sport-club-corinthians-paulista-corinthians-arena-esporte-clube-corinthians-sao-paulo-fc-clube-de-regatas-do-flamengo-corinthians.png" width="30"></h2>
 
 -  3/4 curso técnico em informática 
 - 🎒 Estudante de Informatica
