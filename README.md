@@ -1,4 +1,4 @@
-<h2> Olá, eu sou o Eduardo! <img src="https://logodownload.org/wp-content/uploads/2016/11/corinthians-logo-0.png" width="50"></h2>
+<h2> Olá, eu sou o Eduardo! <img src="https://logodownload.org/wp-content/uploads/2016/11/corinthians-logo-0.png" width="70"></h2>
 
 -  3/4 curso técnico em informática 
 - 🎒 Estudante de Informatica
