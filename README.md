@@ -20,7 +20,7 @@ Eu sou o Eduardo Samuel, tenho 17 anos, sou de Araranguá/Criciúma - Sc!
 </div>
 <br>
 
-# Linguagens que tive contato:
+# tive contato:
 
 <div>
 
@@ -29,7 +29,7 @@ Eu sou o Eduardo Samuel, tenho 17 anos, sou de Araranguá/Criciúma - Sc!
 <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="35" height="40"/>
 </div>
 
-# Linguagens que tive contato e pretendo manter:
+# tive contato e pretendo manter:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
