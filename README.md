@@ -45,7 +45,7 @@ Eu sou o Eduardo Samuel, tenho 17 anos, sou de Araranguá/Criciúma - Sc!
 # Social:
 
 <div>
-  <a href="https://instagram.com/1eduardosamuel_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/1eduardosm/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
  
