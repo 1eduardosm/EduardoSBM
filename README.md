@@ -2,7 +2,7 @@
 
 Eu sou o Eduardo Samuel, tenho 17 anos, sou de Araranguá/Criciúma - Sc!
 
--  3/4 curso técnico em informática 
+-  4/4 curso técnico em informática 
 - 🎒 Estudante de Informatica
 - 😄 Entusiasta em computaria 
 - Posso não ter a resposta que você procura. Entretanto, tenho a ambição e a força de vontade para encontra-lá!
