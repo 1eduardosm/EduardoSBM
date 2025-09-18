@@ -1,6 +1,6 @@
 # Seja bem-vindo! 
 
-Eu sou o Eduardo Samuel, tenho 17 anos e sou de Araranguá/Criciúma - Sc!
+Eu sou o Eduardo Samuel, tenho 18 anos e sou de Araranguá - Sc!
 
 -  formado: curso técnico em informática 
 - 🎒 Estudante de Engenharia de software
