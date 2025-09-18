@@ -2,20 +2,20 @@
 
 Eu sou o Eduardo Samuel, tenho 17 anos e sou de Araranguá/Criciúma - Sc!
 
--  4/4 curso técnico em informática 
-- 🎒 Estudante de Informatica
+-  formado: curso técnico em informática 
+- 🎒 Estudante de Engenharia de software
 - 😄 Entusiasta de informática e tecnologia
-- Posso não ter a resposta que você procura. Entretanto, tenho a ambição e a força de vontade para encontra-lá!
+- Posso não ter a resposta que você procura. Entretanto, tenho a ambição e a força de vontade para achar!
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/EduardoSBM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSBM&theme=tokyonight&show_icons=true" />
+  <a href="https://github.com/1eduardosm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1eduardosm&theme=tokyonight&show_icons=true" />
   </a>
   
-  <a href="https://github.com/EduardoSBM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSBM&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/1eduardosm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eduardosm&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 <br>
