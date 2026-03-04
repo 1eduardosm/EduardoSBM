@@ -26,7 +26,6 @@ Eu sou o Eduardo Samuel, tenho 18 anos e sou de Araranguá - Sc!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="35" height="40"/>
 </div>
 
 # estudo:
