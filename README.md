@@ -9,17 +9,6 @@ Eu sou o Eduardo Samuel, tenho 18 anos e sou de Araranguá - Sc!
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/1eduardosm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1eduardosm&theme=tokyonight&show_icons=true" />
-  </a>
-  
-  <a href="https://github.com/1eduardosm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eduardosm&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-<br>
-
 # tive contato:
 
 <div>
